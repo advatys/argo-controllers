@@ -1,7 +1,7 @@
 argoWorkflows:
   enabled: true
   repository:
-    version: 0.2.7
+    version: 0.24.1
   config:
     singleNamespace: false
     server:
@@ -19,7 +19,7 @@ argoWorkflows:
 argoEvents:
   enabled: true
   repository:
-    version: 1.6.4
+    version: 2.2.0
   config:
     singleNamespace: false
     securityContext:
